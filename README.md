@@ -56,4 +56,8 @@ The following algorithms were explored:
 👩‍💻 Author
 
 Sapna Rani
-B.Tech CSE Student
+B.Tech CSE (2nd Year)
+
+💻 Python | Machine Learning | Data Science
+
+🔗 GitHub: https://github.com/sapnarani1306-maker
